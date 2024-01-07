@@ -6,11 +6,11 @@ In this section, I will explain the rationale and challenges I faced in this cas
 
 In this report, I used three tools including Talend Data Integration, Talend Data Preparation and SAS Enterprise Miner to complete this alternative assessment.
 
-	For Talend Data Integration, the rationale to choose this tool for its robust data integration capabilities, allowing seamless extraction, transformation, and loading (ETL) processes. It enables the integration of diverse data sources, in this case, it was used to integrate two datasets for subsequent analysis. Potential challenges include handling large datasets and ensuring data quality throughout the integration process. Hence, to ensure data quality, Talend Data Preparation comes to the place.
+For Talend Data Integration, the rationale to choose this tool for its robust data integration capabilities, allowing seamless extraction, transformation, and loading (ETL) processes. It enables the integration of diverse data sources, in this case, it was used to integrate two datasets for subsequent analysis. Potential challenges include handling large datasets and ensuring data quality throughout the integration process. Hence, to ensure data quality, Talend Data Preparation comes to the place.
 
-	For Talend Data Preparation, it is used for exploring the missing value and data inconsistencies, transforming data and cleaning data directly. It offers user-friendly features for cleaning, enriching, and aggregating data, facilitating a more meaningful analysis and produce data quality. One of the challenges in Talend Data Preparation is handling with various columns. As my dataset consists of 23 columns after integration, it will be consumed more time to explore the data patterns one by one.
+For Talend Data Preparation, it is used for exploring the missing value and data inconsistencies, transforming data and cleaning data directly. It offers user-friendly features for cleaning, enriching, and aggregating data, facilitating a more meaningful analysis and produce data quality. One of the challenges in Talend Data Preparation is handling with various columns. As my dataset consists of 23 columns after integration, it will be consumed more time to explore the data patterns one by one.
  
-	For SAS Enterprise Miner, it is a powerful tool for predictive modelling and analysis. It is able to construct decision trees and ensembled methods, providing valuable insights into customer behaviours. 
+For SAS Enterprise Miner, it is a powerful tool for predictive modelling and analysis. It is able to construct decision trees and ensembled methods, providing valuable insights into customer behaviours. 
 
 ### Insight of Decision Trre and Ensemble Method Analysis
 
