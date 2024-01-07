@@ -10,11 +10,13 @@ SAS e-Miner was used for data imputation to handle missing value, focusing on th
 ## Specify Variable Roles
 After the file has been imported in SAS Enterprise Miner, we have to specify variable roles first. The figure below shows the variable roles selection for your reference.
 
-image
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/Variable%20role.jpg)
 
 ## Impute
 
 image
+
+## Model
 
 ### Decision Trees
 **Construction:** Decision trees were built to understand patterns in the data. Different depth of Decision Trees have been built in SAS E-miner.
