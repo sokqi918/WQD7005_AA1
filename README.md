@@ -36,11 +36,11 @@ The case study aims to apply decision tree and ensemble methods in a practical c
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Process%20flow.jpg)
 
-**The role of Talend Data Integration:**
+**1. The role of Talend Data Integration:**
 Integrate both datasets.
 
-**The role of Talend Data Preparation:**
+**2. The role of Talend Data Preparation:**
 Perform data cleaning and data transformation.
 
-**The role of SAS E-miner:**
+**3. The role of SAS E-miner:**
 Explore, Modify, Model, and Assess the predicitve models.
