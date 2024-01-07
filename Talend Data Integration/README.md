@@ -38,7 +38,7 @@ Next, we drag the component "tMap" to map both datasets.
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/mapping.jpg)
 
-Finally, we save the output into our local computer.
+Finally, we save the output into our local computer. This output dataset link: [Link](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/output_Preparation_v1.xlsx)
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/output.jpg)
 
