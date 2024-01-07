@@ -18,7 +18,7 @@ As I have used Talend Data Preparation to identify missing value for each column
 -	Categorical type variables have been imputed by using method of tree to replace missing data with estimated or predicted values. Tree method ensures that datasets are complete and suitable for analysis. “Tree method” refers to decision tree-based method for imputing missing values. Decision tree will observe the relationship in the existing data to predict and fill in missing values.
 -	For numerical type variables, mean imputation has been used to replace missing values with the mean (average) value of the observed data for the particular variable.
 
-image
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/Data%20Imputation.jpg)
 
 ## Model
 
