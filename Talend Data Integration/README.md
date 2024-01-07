@@ -10,5 +10,21 @@ In order to match the dataset Dr. need, I have generated own dataset to merge wi
 
 After that, I use Talend Data Integration to map the first and second dataset together. Below is the pipeline to map both datasets. “CustomerID” has been used to map these both datasets together.
 
+**Pipeline in Talend Data Integration**
+
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/pipelinedataintegration.jpg)
+
+Firstly, drag the component of "tFileInputDelimited" into Job for first and second datasets.
+
+The configurations for each datasets are showed as below:
+
+**1. Configuration in First Dataset**
+
+Configuration for first dataset:
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/file1configuration.jpg)
+
+Edit Schema:
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/file1editschema.jpg)
+
 
 
