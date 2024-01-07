@@ -26,5 +26,20 @@ Configuration for first dataset:
 Edit Schema:
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/file1editschema.jpg)
 
+**2. Configuration in Second Dataset**
+
+Configuration for second dataset:
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/file2configuration.jpg)
+
+Edit Schema:
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/file2editschema.jpg)
+
+Next, we drag the component "tMap" to map both datasets.
+
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/mapping.jpg)
+
+Finally, we save the output into our local computer.
+
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Integration/output.jpg)
 
 
