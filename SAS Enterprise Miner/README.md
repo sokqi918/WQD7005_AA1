@@ -64,7 +64,7 @@ As mentioned earlier, I used ordinal target criterion as “Entropy”. In this 
 ### Ensembled Methods
 **Random Forest for Bagging**
 
-[Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/randomforest.jpg)
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/randomforest.jpg)
 
 **Gradient Boosting for Boosting**
 
