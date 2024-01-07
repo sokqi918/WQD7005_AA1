@@ -43,6 +43,8 @@ Inconsistent data in “PreferedOrderCat”
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/export.jpg)
 
+**The dataset after data cleaning and transformation in Talend Data Preparation: [output_Prepraration_v1.xlsx](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/output_Preparation_v1.xlsx)**
+
 In Talend Data Preparation, we are able to ensure data quality. It is a tool for us to prepare and clean data. It helps us to:
 
 - Data profiling and cleansing: identify issues with their data, such as missing values, duplication, or inconsistencies.
