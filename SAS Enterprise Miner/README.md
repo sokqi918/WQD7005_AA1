@@ -45,15 +45,19 @@ As mentioned earlier, I used ordinal target criterion as “Entropy”. In this 
 **Construction:** Decision trees were built to understand patterns in the data. Different depth of Decision Trees have been built in SAS E-miner.
 
 **Decision Tree - lvl 2**
+
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/decisiontreelvl2.jpg)
 
 **Decision Tree - lvl 3**
+
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/decisiontreelvl3.jpg)
 
 **Decision Tree - lvl 4**
+
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/decisiontreelvl4.jpg)
 
 **Decision Tree - Maximal**
+
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/decisiontreemaximal.jpg)
 
 
