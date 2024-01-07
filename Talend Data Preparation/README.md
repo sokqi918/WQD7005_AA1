@@ -2,7 +2,7 @@
 
 Talend Data Preparation is a tool for data cleansing and data profiling. Below are the steps to data cleaning and data transformation.
 
-1. Missing value has been checked using Talend Data Preparation. After checked, we found out that the below columns have missing value. Handling missing value will be done in SAS Enterprise Miner.
+**1. Missing value has been checked using Talend Data Preparation. After checked, we found out that the below columns have missing value. Handling missing value will be done in SAS Enterprise Miner.**
 
 | Columns                     | Missing Values (count) |
 |-----------------------------|-------------------------|
@@ -15,11 +15,11 @@ Talend Data Preparation is a tool for data cleansing and data profiling. Below a
 | DaySinceLastOrder           | (No count as deleted)   |
 | Membership                  | 264                     |
 
-2. Data type has been changed in Talend Data Prep if those data type is wrong. In this case, “CustomerID” column data type has been changed from fr_postal_code to TEXT. (HANDLE INCONSISTENT DATA TYPE)
+**2. Data type has been changed in Talend Data Prep if those data type is wrong. In this case, “CustomerID” column data type has been changed from fr_postal_code to TEXT. (HANDLE INCONSISTENT DATA TYPE)**
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/datatype.jpg)
 
-3. Inconsistent value in columns.
+**3. Inconsistent value in columns.**
 
 Inconsistent data in “PreferredPaymentMode”.
 
@@ -35,11 +35,11 @@ Inconsistent data in “PreferedOrderCat”
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/preferred.jpg)
 
-4. Since “DaySinceLastOrder” will not be used in analysis, hence I have dropped this column.
+**4. Since “DaySinceLastOrder” will not be used in analysis, hence I have dropped this column.**
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/drop.jpg)
 
-5. After all activities done, I have exported the preprocessed dataset on local computer for further analysis.
+**5. After all activities done, I have exported the preprocessed dataset on local computer for further analysis.**
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/export.jpg)
 
