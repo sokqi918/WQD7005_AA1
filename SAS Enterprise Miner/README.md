@@ -14,6 +14,10 @@ After the file has been imported in SAS Enterprise Miner, we have to specify var
 
 ## Impute
 
+As I have used Talend Data Preparation to identify missing value for each column, so I only need to select the variables which are required for data imputation. As shown in below figure, you can see that I have imputed 7 variables to handle missing values.
+-	Categorical type variables have been imputed by using method of tree to replace missing data with estimated or predicted values. Tree method ensures that datasets are complete and suitable for analysis. “Tree method” refers to decision tree-based method for imputing missing values. Decision tree will observe the relationship in the existing data to predict and fill in missing values.
+-	For numerical type variables, mean imputation has been used to replace missing values with the mean (average) value of the observed data for the particular variable.
+
 image
 
 ## Model
