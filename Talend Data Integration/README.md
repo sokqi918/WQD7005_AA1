@@ -4,7 +4,7 @@ In order to fulfil the data requirements from Our teachers, we have to integrate
 
 One of the dataset is found in Kaggle, which is [**First Dataset**](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/ecommerce.csv)
 
-In order to match the dataset Dr. need, I have generated own dataset to merge with first dataset. The data was generated based on the customer behaviours and “PreferedOrderCat”, For example, “TotalSpent” and “Age” data have been generated based on “PreferedOrderCat”. Also, Column of “Membership” has been generated based on the column of “Tenure” in first dataset. The link of **second dataset** [Second Dataset](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/lastpurchasedateorder.csv)
+In order to match the dataset Dr. need, I have generated own dataset to merge with first dataset. The data was generated based on the customer behaviours and “PreferedOrderCat”, For example, “TotalSpent” and “Age” data have been generated based on “PreferedOrderCat”. Also, Column of “Membership” has been generated based on the column of “Tenure” in first dataset. The link of [**Second Dataset**](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/lastpurchasedateorder.csv)
 
 ### Talend Data Integration
 
