@@ -1,6 +1,6 @@
 ## Dataset used in this project:
 
-**First Dataset: ecommerce.csv**
+**First Dataset:** [ecommerce.csv](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/ecommerce.csv)
 
 | Variable                  | Description                                       |
 |---------------------------|---------------------------------------------------|
@@ -25,7 +25,7 @@
 | DaySinceLastOrder         | Days since the last order by customer              |
 | CashbackAmount            | Average cashback in the last month                |
 
-**Second Dataset: lastpurchasedateorder.csv**
+**Second Dataset:** [lastpurchasedateorder.csv](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/lastpurchasedateorder.csv)
 
 In order to match the dataset Dr. need, I have generated own dataset to merge with first dataset. The data was generated based on the customer behaviours and “PreferedOrderCat”, For example, “TotalSpent” and “Age” data have been generated based on “PreferedOrderCat”. Also, Column of “Membership” has been generated based on the column of “Tenure” in first dataset. Below are the descriptions of second dataset.
 
@@ -38,6 +38,7 @@ In order to match the dataset Dr. need, I have generated own dataset to merge wi
 | Membership              | Level of membership: bronze, silver, gold & platinum |
 
 
-**Output after integrated in Talend Data Integration: output_Preparation_v1.xlsx**
-
+**Output after integrated in Talend Data Integration:** [out.csv](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/out.csv)
 This output has been saved after data integration with First and Second datasets in Talend Data Integration.
+
+**Output after preprocessing in Talend Data Preparation:** [output_Preparation_v1.xlsx](https://github.com/sokqi918/WQD7005_AA1/blob/main/Dataset/output_Preparation_v1.xlsx)
