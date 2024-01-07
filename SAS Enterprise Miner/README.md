@@ -20,6 +20,11 @@ As I have used Talend Data Preparation to identify missing value for each column
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/Data%20Imputation.jpg)
 
+### Result
+The imputed variable results are fixed after we run the “impute”, the number of missing for TRAIN is aligned with the identified missing values in Talend Data Preparation.
+
+image
+
 ## Model
 
 ### Decision Trees
