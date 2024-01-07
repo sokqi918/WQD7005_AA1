@@ -7,7 +7,7 @@ SAS e-Miner was used for data imputation to handle missing value, focusing on th
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/SAS%20flow.jpg)
 
-## Specify Variable Roles
+### Specify Variable Roles
 After the file has been imported in SAS Enterprise Miner, we have to specify variable roles first. The figure below shows the variable roles selection for your reference.
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/Variable%20role.jpg)
