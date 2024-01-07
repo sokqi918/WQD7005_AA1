@@ -34,10 +34,8 @@ The case study aims to apply decision tree and ensemble methods in a practical c
 6. [Reflection or Learning Outcomes](https://github.com/sokqi918/WQD7005_AA1/tree/main/Reflection%20or%20Learning%20Outcomes)
 
 **1. The role of Talend Data Integration:**
-Integrate both datasets.
-
+Integrate both datasets.  
 **2. The role of Talend Data Preparation:**
-Perform data cleaning and data transformation.
-
+Perform data cleaning and data transformation.  
 **3. The role of SAS E-miner:**
 Explore, Modify, Model, and Assess the predicitve models.
