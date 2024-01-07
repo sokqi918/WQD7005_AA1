@@ -27,7 +27,24 @@ The imputed variable results are fixed after we run the “impute”, the number
 
 ## Model
 
+### Data Partition
+I have split the dataset to 70% of training set and 30% of validation set. For the rest properties, I put them as default setting.
+
+Image
+
 ### Decision Trees
+
+For decision tree construction, the ordinal target criterion has been set as “Entropy”.
+
+Image
+
+The rest of properties have been set as default setting; I only adjust the model settings to enhance its predictive power. Specifically, in this segment, I utilized the "interactive" feature to train the decision tree at various levels by adjusting the tree's depth.
+
+Image
+
+
+As mentioned earlier, I used ordinal target criterion as “Entropy”. In this case, the node will be split based on the entropy. In the context of decision trees and entropy, the goal is to minimize entropy. The entropy is a measure of impurity or disorder within a set of data, and decision trees seek to create splits that result in subsets with lower entropy. 
+
 **Construction:** Decision trees were built to understand patterns in the data. Different depth of Decision Trees have been built in SAS E-miner.
 
 image
