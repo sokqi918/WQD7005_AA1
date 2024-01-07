@@ -1,11 +1,12 @@
 # WQD7005_AA1
 
 ## Case Study: E-Commerce Customer Behaviour Analysis 
-## Background: 
+
+### Background: 
 You will work with a dataset of customer transactions from an e-commerce website, encompassing various customer attributes and purchase history over the last year. The structure provided below is a guideline. Feel free to enhance this dataset by adding  relevant attributes that you believe will enrich your analysis. Use the structure as a 
 foundation to create your own sample dataset that reflects realistic customer behaviour. 
 
-## Dataset Structure: 
+### Dataset Structure: 
 
 CustomerID: Unique identifier for each customer.  
 Age: Age of the customer.  
@@ -19,10 +20,10 @@ LastPurchaseDate: The date of the last purchase.
 [Additional Attributes]: Consider adding more attributes like customer's occupation, frequency of website visits, etc.  
 Churn: Indicates whether the customer has stopped purchasing (1 for churned, 0 for active).
 
-## Objective: 
+### Objective: 
 The case study aims to apply decision tree and ensemble methods in a practical context, demonstrating their understanding of the concepts and their ability to derive meaningful business insights from data analysis. 
 
-## Process Flow for this Project
+### Process Flow for this Project
 
 1. [Dataset Link](https://github.com/sokqi918/WQD7005_AA1/tree/main/Dataset)
 2. [Step by Step Talend Data Integration](https://github.com/sokqi918/WQD7005_AA1/tree/main/Talend%20Data%20Integration)
