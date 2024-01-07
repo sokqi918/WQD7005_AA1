@@ -1,0 +1,35 @@
+# WQD7005_AA1
+This contain the SAS E-miner flow.
+Case Study: E-Commerce Customer Behaviour Analysis 
+Background: 
+You will work with a dataset of customer transactions from an e-commerce website, encompassing various customer attributes and purchase history over the last year. The structure provided below is a guideline. Feel free to enhance this dataset by adding  relevant attributes that you believe will enrich your analysis. Use the structure as a 
+foundation to create your own sample dataset that reflects realistic customer behaviour. 
+
+Dataset Structure: 
+CustomerID: Unique identifier for each customer. 
+Age: Age of the customer. 
+Gender: Gender of the customer. 
+Location: Geographic location of the customer. 
+MembershipLevel: Indicates the membership level (e.g., Bronze, Silver, Gold, 
+Platinum). 
+TotalPurchases: Total number of purchases made by the customer. 
+TotalSpent: Total amount spent by the customer. 
+FavoriteCategory: The category in which the customer most frequently shops (e.g., 
+Electronics, Clothing, Home Goods). 
+LastPurchaseDate: The date of the last purchase. 
+[Additional Attributes]: Consider adding more attributes like customer's occupation, 
+frequency of website visits, etc. 
+Churn: Indicates whether the customer has stopped purchasing (1 for churned, 0 for 
+active).
+
+Objective: 
+The case study aims to apply decision tree and ensemble methods in a practical context, demonstrating their understanding of the concepts and their ability to derive meaningful business insights from data analysis. 
+
+The role of Talend Data Integration:
+Integrate both datasets.
+
+The role of Talend Data Preparation:
+Perform data cleaning and data transformation.
+
+The role of SAS E-miner:
+Explore, Modify, Model, and Assess the predicitve models.
