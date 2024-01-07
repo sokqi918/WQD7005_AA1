@@ -18,5 +18,5 @@ In our analysis, we looked at different types of decision trees to understand ho
 
 ### Business Strategy
 
-For business strategies, we suggest using what we've learned to improve how we engage with customers. Creating personalized marketing campaigns based on important factors like Tenure, Number of Addresses, Complaints, Satisfaction Score, and Cashback Amount can be effective. It's also important to keep an eye on trends in customer behaviour and adjust our strategies accordingly. In conclusion, the tools we used, Talend Data Integration, Talend Data Preparation, and SAS Enterprise Miner, helped us understand customer behaviour and provided practical insights for better business strategies. 
+For business strategies, we suggest using what we've learned to improve how we engage with customers. Creating personalized marketing campaigns based on important factors like **Tenure, Number of Addresses, Complaints, Satisfaction Score, and Cashback Amount** can be effective. It's also important to keep an eye on trends in customer behaviour and adjust our strategies accordingly. In conclusion, the tools we used, Talend Data Integration, Talend Data Preparation, and SAS Enterprise Miner, helped us understand customer behaviour and provided practical insights for better business strategies. 
 
