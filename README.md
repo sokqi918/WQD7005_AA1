@@ -32,11 +32,15 @@ Churn: Indicates whether the customer has stopped purchasing (1 for churned, 0 f
 ## Objective: 
 The case study aims to apply decision tree and ensemble methods in a practical context, demonstrating their understanding of the concepts and their ability to derive meaningful business insights from data analysis. 
 
-## The role of Talend Data Integration:
+## Process Flow for this Project
+
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Process%20flow.jpg)
+
+### The role of Talend Data Integration:
 Integrate both datasets.
 
-## The role of Talend Data Preparation:
+### The role of Talend Data Preparation:
 Perform data cleaning and data transformation.
 
-## The role of SAS E-miner:
+### The role of SAS E-miner:
 Explore, Modify, Model, and Assess the predicitve models.
