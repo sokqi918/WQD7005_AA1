@@ -30,6 +30,9 @@ Gradient Boosting has been used to handle the overfitting issues that are happen
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Result%20%26%20Analysis/compare_DT_GB.jpg)
 
+For the variable importance, we can also see there is slightly difference between decision tree and gradient boosting. I found out the variables such as **Tenure, Complain, Number of Address** are important in both models (Decision Tree and Gradient Boosting). Let’s explore bagging method to see whether the prediction will further improve or not.
+
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Result%20%26%20Analysis/variableimportant_GB.jpg)
 
 **2. Bagging Method**
 
