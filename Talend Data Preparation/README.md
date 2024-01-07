@@ -23,9 +23,15 @@ Talend Data Preparation is a tool for data cleansing and data profiling. Below a
 
 Inconsistent data in “PreferredPaymentMode”.
 
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/replacecc.jpg)
+
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/replaceCOD.jpg)
+
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/payment.jpg)
 
 Inconsistent data in “PreferedOrderCat”
+
+![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/replacemobile.jpg)
 
 ![Updated Image](https://github.com/sokqi918/WQD7005_AA1/blob/main/Talend%20Data%20Preparation/preferred.jpg)
 
