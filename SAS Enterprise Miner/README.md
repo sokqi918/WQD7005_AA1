@@ -14,6 +14,7 @@ image
 
 ## Impute
 
+image
 
 ### Decision Trees
 **Construction:** Decision trees were built to understand patterns in the data. Different depth of Decision Trees have been built in SAS E-miner.
@@ -24,6 +25,12 @@ image
 image
 
 
-### Clustering
-- **Approach:** Describe the clustering approach used.
-- **Clusters:** Identify the clusters formed and their characteristics.
+### Ensembled Methods
+**Random Forest for Bagging**
+
+**Gradient Boosting for Boosting**
+
+
+## Model Comparison
+
+image
