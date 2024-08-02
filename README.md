@@ -1,4 +1,4 @@
-# WQD7005_AA1
+# E-Commerce Customer Behaviour Analysis
 
 ## Case Study: E-Commerce Customer Behaviour Analysis 
 
